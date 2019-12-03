@@ -1,7 +1,7 @@
 {
-  "name": "smui-example-rollup",
+  "name": "granoff-gang-generator",
   "version": "1.0.0",
-  "description": "An example project implementing Svelte Material UI with Rollup.",
+  "description": "Generate unique groups of students",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js",
@@ -9,17 +9,17 @@
     "watch": "rollup -c rollup.config.js --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hunter Perrin <hperrin@gmail.com>",
-  "license": "Apache-2.0",
+  "author": "SwiftWinds <12981958+SwiftWinds@users.noreply.github.com>",
+  "license": "MIT",
   "devDependencies": {
-    "@material/typography": "^3.1.0",
-    "@smui/button": "^1.0.0-beta.10",
-    "rollup": "^1.20.3",
+    "@material/typography": "^4.0.0",
+    "@smui/button": "^1.0.0-beta.18",
+    "rollup": "^1.27.8",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-postcss": "^2.0.3",
-    "rollup-plugin-svelte": "^5.1.0",
-    "serve": "^11.1.0",
-    "svelte": "^3.9.1"
+    "rollup-plugin-svelte": "^5.1.1",
+    "serve": "^11.2.0",
+    "svelte": "^3.16.0"
   }
 }
