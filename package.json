@@ -14,6 +14,7 @@
   "devDependencies": {
     "@material/typography": "^4.0.0",
     "@smui/button": "^1.0.0-beta.18",
+    "@smui/card": "^1.0.0-beta.18",
     "rollup": "^1.27.8",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
