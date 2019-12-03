@@ -22,5 +22,8 @@
     "rollup-plugin-svelte": "^5.1.1",
     "serve": "^11.2.0",
     "svelte": "^3.16.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.0"
   }
 }
